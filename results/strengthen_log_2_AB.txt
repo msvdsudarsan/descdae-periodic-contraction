@@ -1,0 +1,13 @@
+[    52s] ex2: c=0.4362 L=5.839 F=7.148 M2=4.9436 M3=9.8010
+[    55s]   A K=4: mid ratio obs 0.5054 <= 0.9467; euler 0.5972 <= 0.7448; err mid 3.047e-01 (level 3.115e+01), euler 5.301e-01 (level 4.450e+00)
+[    62s]   A K=8: mid ratio obs 0.7023 <= 0.9285; euler 0.7218 <= 0.8537; err mid 6.579e-02 (level 3.135e+00), euler 2.921e-01 (level 2.225e+00)
+[    77s]   A K=16: mid ratio obs 0.8322 <= 0.9375; euler 0.8370 <= 0.9211; err mid 1.673e-02 (level 4.663e-01), euler 1.611e-01 (level 1.113e+00)
+[   103s]   A K=32: mid ratio obs 0.9198 <= 0.9612; euler 0.9222 <= 0.9589; err mid 4.151e-03 (level 9.584e-02), euler 8.328e-02 (level 5.563e-01)
+[   191s]   A K=64: mid ratio obs 0.9597 <= 0.9792; euler 0.9604 <= 0.9790; err mid 1.037e-03 (level 2.263e-02), euler 4.256e-02 (level 2.781e-01)
+[   192s]   B K=4: true 6.278e-01  a posteriori 7.656e+00 (eff 12.20)  a priori(M_emp) 4.450e+00
+[   194s]   B K=8: true 3.273e-01  a posteriori 4.772e+00 (eff 14.58)  a priori(M_emp) 2.225e+00
+[   199s]   B K=16: true 1.728e-01  a posteriori 2.616e+00 (eff 15.14)  a priori(M_emp) 1.113e+00
+[   207s]   B K=32: true 8.651e-02  a posteriori 1.362e+00 (eff 15.74)  a priori(M_emp) 5.563e-01
+[   226s]   B K=64: true 4.336e-02  a posteriori 6.941e-01 (eff 16.01)  a priori(M_emp) 2.781e-01
+[   251s]   shooting: j1: 1.32e+00<=1.78e+00, j2: 7.64e-03<=9.80e-03, j3: 4.44e-04<=5.58e-04, j4: 3.32e-05<=4.14e-05, j5: 2.64e-06<=3.29e-06, j6: 2.12e-07<=2.64e-07, j7: 1.71e-08<=2.13e-08, j8: 1.38e-09<=1.71e-09
+[   251s] STRENGTHEN DONE

@@ -1,0 +1,6 @@
+[    49s] ex4: c=0.3879 L=9.918 F=45.909 M2=7.4637 M3=14.8908
+[    81s]   A K=8: mid ratio obs 0.6901 <= 0.9687; euler 0.7212 <= 0.8678; err mid 1.215e-01 (level 1.775e+01), euler 3.618e-01 (level 3.778e+00)
+[   149s]   A K=16: mid ratio obs 0.8513 <= 0.9616; euler 0.8594 <= 0.9292; err mid 2.930e-02 (level 1.877e+00), euler 1.918e-01 (level 1.889e+00)
+[   261s]   A K=32: mid ratio obs 0.9150 <= 0.9697; euler 0.9177 <= 0.9633; err mid 7.317e-03 (level 3.023e-01), euler 9.904e-02 (level 9.445e-01)
+[   400s]   A K=64: mid ratio obs 0.9542 <= 0.9822; euler 0.9552 <= 0.9813; err mid 1.825e-03 (level 6.493e-02), euler 5.037e-02 (level 4.723e-01)
+[   400s] STRENGTHEN DONE

@@ -1,0 +1,8 @@
+[     9s] ex3: c=0.4469 L=5.839 F=7.148 M2=4.8703 M3=9.7236
+[     9s]   B K=4: true 6.178e-01  a posteriori 6.000e+00 (eff 9.71)  a priori(M_emp) 4.280e+00
+[     9s]   B K=8: true 3.212e-01  a posteriori 3.818e+00 (eff 11.89)  a priori(M_emp) 2.140e+00
+[    10s]   B K=16: true 1.691e-01  a posteriori 2.106e+00 (eff 12.46)  a priori(M_emp) 1.070e+00
+[    11s]   B K=32: true 8.456e-02  a posteriori 1.098e+00 (eff 12.99)  a priori(M_emp) 5.349e-01
+[    15s]   B K=64: true 4.232e-02  a posteriori 5.599e-01 (eff 13.23)  a priori(M_emp) 2.675e-01
+[    21s]   shooting: j1: 1.45e+00<=1.93e+00, j2: 2.19e-02<=2.71e-02, j3: 1.68e-03<=2.07e-03, j4: 1.33e-04<=1.64e-04, j5: 1.07e-05<=1.31e-05, j6: 8.51e-07<=1.05e-06, j7: 6.79e-08<=8.37e-08, j8: 5.43e-09<=6.68e-09
+[    21s] STRENGTHEN DONE
